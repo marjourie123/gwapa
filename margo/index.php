@@ -23,20 +23,7 @@
 	<label>Last Name:</label>
     <input type="text" name="lastname" class="form-control">
 </div>
-<div class="container">
-	<label>Age:</label>
-    <input type="text" name="age" class="form-control">
-</div>
-<div class="container">
-	<label>Address:</label>
-    <input type="text" name="address" class="form-control">
-</div>
-<div class="container">
-	<label>Course&Section:</label>
-    <input type="text" name="course&section" class="form-control">
 
-    <button type="submit">Submit</button>
-</div>
 </body>
 </html>
 
